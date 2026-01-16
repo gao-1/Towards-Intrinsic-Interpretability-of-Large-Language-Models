@@ -33,7 +33,7 @@
 
 ## 📖 Overview
 
-![Taxonomy Framework](figure2.png)
+![Taxonomy Framework](intrinsicmethod.png)
 *Figure: A taxonomy of intrinsic architectural designs for interpretable LLMs. We categorize existing approaches into five primary families based on their core mechanism for transparency.*
 
 While Large Language Models (LLMs) have achieved strong performance, their opaque internal mechanisms hinder trustworthiness. Unlike post-hoc explanation methods that interpret trained models through external approximations, **Intrinsic Interpretability** builds transparency directly into model architectures and computations.
